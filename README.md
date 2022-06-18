@@ -14,7 +14,7 @@
 
 ## 📋 Sobre:
 
-Projeto feito durante o curso Alura-Git, com foco em aprender a utilizar as funcionalidade e a utilização das ferramentas de Git e Github.
+Projeto feito durante o curso Alura-Git, com foco em aprender as funcionalidade e a utilização das ferramentas de Git e Github.
 
 ---
 
